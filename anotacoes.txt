@@ -1,0 +1,32 @@
+############################################
+		Comandos
+############################################
+desafio - Apresenta o desafio.
+
+avaliar - Avalia o desafio.
+
+ajuda - Apresenta os comandos do Educaralho.
+
+dicas - Apresenta dicas (comandos, arquivos).
+
+resposta - Apresenta como fazer o desafio.
+
+reiniciar - Volta para o estado original.
+
+############################################
+		Arquitetura
+############################################
+
+Quando o usuario acessa o usuario do
+Educaralho, eh apresentado pra ele o desafio
+em poucas palavras.
+
+Caso ele queira ver o desafio novamente 
+basta executar o comando 'desafio'.   
+
+Ao executar o comando 'avaliar' o Educaralho
+processa as informacoes necessarias para
+gera gerar a senha que o conduzirah para o
+proximo desafio.
+
+
